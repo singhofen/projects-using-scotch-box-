@@ -1,9 +1,10 @@
+**This repo contains various projects using scotchbox, virtual box, vagrant and BASH.** <br>
+**The tech used is SQL, PHP, JavaScript, Database managment using Excel, MySQL, MongoDB, HTML, CSS.** <br>
+**Below is the official readme for scotchbox with alot of additional information and how to use it with development.**
 
-# Scotch Box
+### [GET SCOTCH BOX PRO](https://box.scotch.io/pro)
 
-## [GET SCOTCH BOX PRO](https://box.scotch.io/pro)
-
-## [TUTORIAL](https://scotch.io/bar-talk/announcing-scotch-box-30-and-scotch-box-pro)
+### [TUTORIAL](https://scotch.io/bar-talk/announcing-scotch-box-30-and-scotch-box-pro)
 
 Just a Dead-Simple Local LAMP/LEMP Stack for Vagrant. **Making Vagrant EASY AS EATING CAKE for developers.**
 
@@ -12,7 +13,7 @@ Just a Dead-Simple Local LAMP/LEMP Stack for Vagrant. **Making Vagrant EASY AS E
 Scotch Box is a pre-configured Vagrant Box with a full array of features to get you up and running with Vagrant in no time.
 
 
-## Scotch Box 3.0!
+### Scotch Box 3.0!
 
 3.0 is finally here!
 
@@ -23,7 +24,7 @@ Scotch Box is a pre-configured Vagrant Box with a full array of features to get 
 * New and improved starter file index.php
 
 
-## License Required?!!!!?!
+### License Required?!!!!?!
 
 Still MIT License for the free version. The free version is still a beast.
 
@@ -32,7 +33,7 @@ Pro will help support the project, let you customize somet things a bit more, an
 "Scotch Box Pro" is a paid version of the original Scotch Box. [Go Pro Now!](https://box.scotch.io/pro)
 
 
-## Pro Features
+### Pro Features
 
 * Ubuntu 16.04!
 * PHP 7!
@@ -49,7 +50,7 @@ Pro will help support the project, let you customize somet things a bit more, an
 
 ![Scotch Box](https://box.scotch.io/img/terminal.png)
 
-## Documentation
+### Documentation
 
 * Check out the official docs at: [box.scotch.io](https://box.scotch.io)
 * [Read the getting started article](https://scotch.io/bar-talk/introducing-scotch-box-a-vagrant-lamp-stack-that-just-works)
@@ -58,7 +59,7 @@ Pro will help support the project, let you customize somet things a bit more, an
 
 
 
-## WPDistillery
+### WPDistillery
 
 ![WPDistillery Logo](http://files.flurinduerst.ch/wpdistillery/wpdistillery_bright.png)
 
@@ -71,14 +72,14 @@ All you have to do is clone the repo, customize the configuration file to your n
 To get started, visit [wpdistillery.org](https://wpdistillery.org) or check out the [Documentation](https://github.com/flurinduerst/WPDistillery).
 
 
-## More Information
+### More Information
 
 Check-out [box.scotch.io](https://box.scotch.io) to learn more.
 
 
 
 
-## Special Thank You
+### Special Thank You
 
 I was dark on this project for a little bit too long, as I got caught up with work and a million other things. I apologize for slowness to release updates. I'm hoping the Pro version can create a bit more motivation to dedicate time to this. I also finally have the build scripts available for download with the Pro version so you all can start addressing bugs yourselves with your own personalized boxes.
 
